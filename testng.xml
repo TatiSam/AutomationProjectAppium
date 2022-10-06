@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="C:/Users/Den_PC/Desktop/ness/Appium/adidas">
+        <classes>
+            <class name="E2E.E2ETest">
+                <methods>
+                    <include name="test0001"/>
+                    <include name="test0002"/>
+                    <include name="test0003"/>
+                    <include name="test0004"/>
+                    <include name="test0005"/>
+                    <include name="test0006"/>
+                    <include name="test0007"/>
+                    <include name="test0008"/>
+                    <include name="test0009"/>
+                    <include name="test0010"/>
+                    <include name="test0011"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
